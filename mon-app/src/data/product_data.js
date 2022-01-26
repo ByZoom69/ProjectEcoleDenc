@@ -15,7 +15,7 @@ const product_card = [
         id: 3,
         product_name:"Produit 3",
         price: 4,
-        description:"DESIRE"
+        description:"MARYLENE"
     }
 ]
 
