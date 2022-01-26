@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import react from "react";
 import product_card from "../data/product_data";
 

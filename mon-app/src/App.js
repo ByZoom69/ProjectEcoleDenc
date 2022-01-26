@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+/* eslint-disable no-unused-vars */
 import './App.css';
 import list_product from './components/list_product';
 import react from "react";
