@@ -1,4 +1,18 @@
 .List_items {
     display: flex;
     list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#brand {
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+@media screen and (max-width:600px) {
+    .List_items {
+        display: flex;
+        flex-direction: column;
+    }
 }
